@@ -24,4 +24,8 @@ int main() {
 	}
 	cout << dp[num];
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 38d30e1755d42c5aea862e83418fd7cb87862e97
